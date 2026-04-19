@@ -3,10 +3,10 @@ import { portfolioData } from '../data/portfolioData';
 
 
 const skillIcons = {
-  HTML: <img src="/images/html.svg" alt="HTML" className="w-12  h-12" />,
-  CSS: <img src="/images/css.svg" alt="CSS" className="w-12 h-12" />,
-  JavaScript: <img src="/images/js.svg" alt="JS" className="w-12 h-12" />,
-React: <img src="/images/react.svg"alt="React" className="w-12 h-12" />,
+  HTML: <img src="./images/html.svg" alt="HTML" className="w-12  h-12" />,
+  CSS: <img src="./images/css.svg" alt="CSS" className="w-12 h-12" />,
+  JavaScript: <img src="./images/js.svg" alt="JS" className="w-12 h-12" />,
+React: <img src="./images/react.svg"alt="React" className="w-12 h-12" />,
 
 };
 

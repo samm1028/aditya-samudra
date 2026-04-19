@@ -2,17 +2,17 @@ import { motion } from 'framer-motion';
 import { portfolioData } from '../data/portfolioData';
 
 const techIcons = {
-  HTML: '/images/html.svg',
-  CSS: '/images/css.svg',
-  JavaScript: '/images/js.svg',
-  React: '/images/react.svg',
-  Tailwind: '/images/tailwind.svg',
-  Php: '/images/php.svg', 
-  Figma: '/images/figma.svg',
-  Canva: '/images/canva.svg',
-  McWord: '/images/mcword.svg',
-  Capcut: '/images/capcut.svg',
-  KineMaster: '/images/kinemaster.svg',
+  HTML: './images/html.svg',
+  CSS: './images/css.svg',
+  JavaScript: './images/js.svg',
+  React: './images/react.svg',
+  Tailwind: './images/tailwind.svg',
+  Php: './images/php.svg', 
+  Figma: './images/figma.svg',
+  Canva: './images/canva.svg',
+  McWord: './images/mcword.svg',
+  Capcut: './images/capcut.svg',
+  KineMaster: './images/kinemaster.svg',
 };
 
 const techColors = {

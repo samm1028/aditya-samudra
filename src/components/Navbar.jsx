@@ -37,7 +37,7 @@ const Navbar = () => {
           >
            <div className="w-10 h-10 rounded-lg flex items-center justify-center">
   <img 
-    src="/images/muka.jpeg" 
+    src="./images/muka.jpeg" 
     alt="Aditya Samudra Logo" 
     className="w-19 h-27 rounded-xl overflow-hidden"
     style={{ background: 'transparent' }}

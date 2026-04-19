@@ -75,7 +75,7 @@ const Hero = () => {
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-4 glass rounded-lg font-semibold text-white border border-primary/30"
               >
-               <a href="public/images/aditya-samudra.pdf" download> Download CV</a>
+               <a href="public./images/Aditya Samudra portofolio .pdf" download> Download CV</a>
               </motion.button>
             </div>
           </motion.div>
@@ -94,7 +94,7 @@ const Hero = () => {
               {/* Image Container */}
               <div className="relative glass-card rounded-2xl p-6 glow">
                 <img    
-                  src="/images/muka.jpeg"
+                  src="./images/muka.jpeg"
                   alt="Development Setup"
                   className="w-full h-auto rounded-lg"
                 />
