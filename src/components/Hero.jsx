@@ -75,7 +75,7 @@ const Hero = () => {
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-4 glass rounded-lg font-semibold text-white border border-primary/30"
               >
-               <a href="public./images/Aditya Samudra portofolio .pdf" download> Download CV</a>
+               <a href="./images/aditya-samudra.pdf" download> Download CV</a>
               </motion.button>
             </div>
           </motion.div>
