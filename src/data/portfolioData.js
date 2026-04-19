@@ -67,7 +67,7 @@ export const portfolioData = {
       title: "Certificate dicoding (Web Development)",
       description: "Saya telah mengikuti program bootcamp yang diselenggarakan oleh Dicoding. Pada program tersebut, saya memperoleh sertifikat \"Belajar Dasar Web\" setelah berhasil menyelesaikan seluruh quest yang diberikan.",
       tech: ["Certificate", "Artificial Intelligence", "Dicoding"],
-      image: "/public/images/sertiweb.png",
+      image: "public/images/sertiweb.png",
       link: "https://drive.google.com/file/d/1wonfGYqwZo0zJ1ddVATct6M_BI904tZT/view?usp=drive_link",  // ← Link sertifikat
       github: null  // ← Tidak ada GitHub untuk sertifikat
     },
@@ -75,7 +75,7 @@ export const portfolioData = {
       title: "Certificate dicoding (AI)",
       description: "Saya telah mengikuti program bootcamp yang diselenggarakan oleh Dicoding. Pada program tersebut, saya memperoleh sertifikat \"Belajar Dasar AI\" setelah berhasil menyelesaikan seluruh quest yang diberikan.",
       tech: ["Certificate", "Web Development", "Dicoding"],
-      image: "/public/images/ai.png",
+      image: "public/images/ai.png",
       link: "https://drive.google.com/file/d/1FKbyXXJIgNoKB-OhtsFeQwaVoM9EvjqA/view?usp=drive_link",  // ← Link sertifikat
       github: null
     },
@@ -83,7 +83,7 @@ export const portfolioData = {
       title: "Certificate lomba (Fotografi)",
       description: "Convert an input image to a pencil sketch using OpenCV and Matplotlib libraries.",
       tech: ["Certificate", "Fotografi"],
-      image: "/public/images/foto.png",
+      image: "public/images/foto.png",
       link: "https://drive.google.com/file/d/19QEyuTmr-kzj2R7iLrq2d9hTMbQDKmYb/view?usp=drive_link",  // ← Link sertifikat
       github: null
     }
