@@ -3,10 +3,10 @@ import { MessageCircle, Youtube, Instagram, Music } from 'lucide-react';
 
 const Footer = () => {
   const socialLinks = [
-    { icon: MessageCircle, href: '#', label: 'WhatsApp' },
-    { icon: Music, href: '#', label: 'TikTok' },
-    { icon: Youtube, href: '#', label: 'YouTube' },
-    { icon: Instagram, href: '#', label: 'Instagram' },
+    { icon: MessageCircle, href: 'https://wa.me/6285179515590', label: 'WhatsApp' },
+    { icon: Music, href: 'https://www.tiktok.com/@samprecodingzz', label: 'TikTok' },
+    { icon: Youtube, href: 'https://www.youtube.com/channel/UCX1NOseFx3taxIdZoi2SOvw', label: 'YouTube' },
+    { icon: Instagram, href: 'https://www.instagram.com/s4mm_nn/', label: 'Instagram' },
   ];
 
   return (
