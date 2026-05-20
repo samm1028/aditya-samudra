@@ -92,26 +92,26 @@ export const portfolioData = {
     {
       title: "Video education",
       description: "Editing video motivasi untuk konten Instagram menggunakan aplikasi CapCut. Video ini dirancang untuk memberikan inspirasi dan motivasi kepada penonton melalui visual yang menarik dan pesan yang kuat.",
-      image: "/images/samedit.jpeg",
+      image: "./images/samedit.jpeg",
       tech: ["Capcut"],
       github: "https://github.com/username/portfolio",
-      video: "https://www.instagram.com/p/DYY4fHouyMo/" // ← Link video Vimeo
+      video: "https://www.instagram.com/p/DYY4fHouyMo/"
     },
     {
       title: "Main Character Energy",
       description: "Moment kecil, tapi rasanya seperti adegan film. Setiap langkah punya cerita, setiap frame punya rasa.",
-      image: "/images/buku.jpeg",
+      image: "./images/buku.jpeg",
       tech: ["Capcut"],
       github: "https://github.com/username/portfolio",
-      video: "https://www.instagram.com/reel/DXZ1tfEAS4Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" // ← Link video Vimeo
+      video: "https://www.instagram.com/reel/DXZ1tfEAS4Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
       title: "Video Pendek Kegiatan",
       description: "Editing video pendek untuk dokumentasi kegiatan menggunakan aplikasi CapCut. Video ini bertujuan untuk memberikan gambaran singkat namun menarik tentang kegiatan yang telah dilakukan, sehingga dapat digunakan untuk keperluan promosi atau arsip.",
-      image: "/images/kegiatan.png",
+      image: "./images/kegiatan.png",
       tech: ["Capcut"],
       github: "https://github.com/username/portfolio",
-      video: "https://youtu.be/5oOmYnDO3Qs?si=HS6zdvkBCqe3ui7y" // ← Link video Vimeo
+      video: "https://youtu.be/5oOmYnDO3Qs?si=HS6zdvkBCqe3ui7y"
     }
   ]
 };
